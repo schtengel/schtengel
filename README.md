@@ -5,4 +5,4 @@ about me^
 @schtengel
 
 tools stack:
-csharp / java / python / pascal / vsbasics / mssql / firebird / access / word / excel / powerpoint / git / github / docker / visualstudio / intelijidea / ibexpert / windows / linux / manjaro / ubuntu / googledrive / photoshop / figma / notion / 
+csharp / wpf / windowsforms / entityframework / maui / aspdotnet / java / mssql / firebird / access / word / excel / powerpoint / git / github / docker / visualstudio / intelijidea / ibexpert / windows / linux / manjaro / ubuntu / photoshop / paintnet / figma / notion / 
